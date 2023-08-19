@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello from V2 of my first web page deployed on AWS
+          Mojona t quiero
         </p>
         <a
           className="App-link"
